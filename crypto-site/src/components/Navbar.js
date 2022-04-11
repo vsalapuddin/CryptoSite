@@ -4,7 +4,7 @@ const Navbar= () =>{
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
     <a className="navbar-brand" href="#">
-      Group 
+      Group 32
     </a>
     <button
       className="navbar-toggler"
